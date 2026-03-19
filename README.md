@@ -16,5 +16,3 @@ I post on [Linkedin].(https://www.linkedin.com/in/hugo-sirvent-253533234/)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HugoS7&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
