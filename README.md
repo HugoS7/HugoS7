@@ -33,4 +33,4 @@ Python · C/C++ · JavaScript / Node · PyTorch · scikit-learn · Supabase · A
  
 ### Reach me
  
-[LinkedIn](https://www.linkedin.com/in/hugosirvent/) · <email or Sirventia contact link>
+[LinkedIn](https://www.linkedin.com/in/hugosirvent/) · <sirventia.hugo@gmail.com>
