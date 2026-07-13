@@ -16,9 +16,7 @@ Currently working on developing an AI-powered automation solution for responding
  
 **[<Project 3>](<link>)**
 <One line.> · `<stack>`
- 
-> Replace these with 2–3 repos that are finished, have a screenshot in the README, and can be run in three commands. Three real ones beat ten half-done ones.
- 
+  
 ---
  
 ### Also into
