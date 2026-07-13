@@ -15,7 +15,7 @@ Fine-tunes Llama 3.1 8B to convert natural language into SQL (QLoRA), evaluated 
 Image-to-alt-text generator (EfficientNet + Transformer) for developers bootstrapping accessible image descriptions. · `Python`
  
 **[Project 3](<link>)**
-<Fine-tuning GPT-2 to turn free-text support tickets into strict JSON — 82M params, runs on CPU, for teams who need triage at API-call latency without the API bill.> · `<stack>`
+Fine-tuning GPT-2 to turn free-text support tickets into strict JSON — 82M params, runs on CPU, for teams who need triage at API-call latency without the API bill. · `<stack>`
   
 ---
  
