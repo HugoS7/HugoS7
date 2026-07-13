@@ -9,13 +9,13 @@ Currently working on developing an AI-powered automation solution for responding
 ### What I build
  
 **[<Project 1 - llama-text2sql">](<(https://github.com/HugoS7/llama-text2sql)>)**
-<One line: what it does and who it's for.> · `Python` `Jupyter Notebook`
+<Fine-tunes Llama 3.1 8B to convert natural language into SQL (QLoRA), evaluated by actually executing the generated queries — for ML engineers who want a portfolio project with a real metric instead of a loss curve screenshot.> · `Python` `Jupyter Notebook`
  
 **[<Project 2 - alt-text-generator>](<(https://github.com/HugoS7/alt-text-generator)>)**
 <Image-to-alt-text generator (EfficientNet + Transformer) for developers bootstrapping accessible image descriptions.> · `Python`
  
 **[<Project 3>](<link>)**
-<One line.> · `<stack>`
+<Fine-tuning GPT-2 to turn free-text support tickets into strict JSON — 82M params, runs on CPU, for teams who need triage at API-call latency without the API bill.> · `<stack>`
   
 ---
  
