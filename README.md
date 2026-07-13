@@ -9,10 +9,10 @@ Currently working on developing an AI-powered automation solution for responding
 ### What I build
  
 **[<Project 1 - llama-text2sql">]([link]<(https://github.com/HugoS7/llama-text2sql)>)**
-<One line: what it does and who it's for.> · `Python` `LangChain` `Supabase`
+<One line: what it does and who it's for.> · `Python` `Jupyter Notebook`
  
 **[<Project 2 - alt-text-generator>]([link]<(https://github.com/HugoS7/alt-text-generator)>)**
-<One line.> · `<stack>`
+<One line.> · `Python`
  
 **[<Project 3>](<link>)**
 <One line.> · `<stack>`
