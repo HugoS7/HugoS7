@@ -12,7 +12,7 @@ Currently working on developing an AI-powered automation solution for responding
 <One line: what it does and who it's for.> · `Python` `Jupyter Notebook`
  
 **[<Project 2 - alt-text-generator>](<(https://github.com/HugoS7/alt-text-generator)>)**
-<One line.> · `Python`
+<Image-to-alt-text generator (EfficientNet + Transformer) for developers bootstrapping accessible image descriptions.> · `Python`
  
 **[<Project 3>](<link>)**
 <One line.> · `<stack>`
