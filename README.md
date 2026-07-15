@@ -19,7 +19,7 @@ Fine-tuning GPT-2 to turn free-text support tickets into strict JSON — 82M par
 
 
 **[Coming soon](<link>)**
-Building the AmazingHand, an open-source, 3D-printable 8-DOF robotic hand designed for Reachy2 by Pollen Robotics. ·
+Building the AmazingHand, an open-source, 3D-printable 8-DOF robotic hand designed for Reachy2 by Pollen Robotics. · `Python` `Creality`
   
 ---
  
