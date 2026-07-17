@@ -18,7 +18,7 @@ Image-to-alt-text generator (EfficientNet + Transformer) for developers bootstra
 Fine-tuning GPT-2 to turn free-text support tickets into strict JSON — 82M params, runs on CPU, for teams who need triage at API-call latency without the API bill. ·
 
 
-**[Coming soon](<link>)**
+**[Project 4 - amazinghand-build-log](https://github.com/HugoS7/amazinghand-build-log)**
 Building the AmazingHand, an open-source, 3D-printable 8-DOF robotic hand designed for Reachy2 by Pollen Robotics. · `Python` `Creality`
   
 ---
